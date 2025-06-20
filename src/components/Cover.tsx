@@ -65,7 +65,7 @@ const Cover: React.FC<CoverProps> = ({ onStart }) => {
         <div className="mt-16 pt-8 border-t border-white/20 relative z-20">
           <div className="bg-white/95 backdrop-blur-sm rounded-lg px-6 py-4 inline-block">
             <p className="text-[#0C1C44] text-sm font-medium leading-relaxed">
-              Par <span className="font-bold text-[#0C1C44]">Bertos</span><br />
+              Par <span className="font-bold text-[#0C1C44]">Beros</span><br />
               <span className="text-[#1A2A5B] font-medium">Expert en Réseau et Sécurité, Automatisation et Intelligence Artificielle</span>
             </p>
           </div>
