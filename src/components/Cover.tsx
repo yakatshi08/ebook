@@ -38,7 +38,7 @@ const Cover: React.FC<CoverProps> = ({ onStart }) => {
 
         {/* Subtitle */}
         <p className="text-xl md:text-2xl text-white mb-8 font-light tracking-wide leading-relaxed">
-          Manuel essentiel pour novices et créateurs d'entreprise
+          Le guide pratique pour exploiter le potentiel de l'IA sans être expert
         </p>
 
         {/* Description */}
@@ -58,7 +58,7 @@ const Cover: React.FC<CoverProps> = ({ onStart }) => {
                    shadow-lg hover:shadow-xl flex items-center gap-3 mx-auto"
         >
           <Play size={20} />
-          Commencer la lecture
+          Je me lance !
         </button>
 
         {/* Author signature */}
